@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f420c2da-847c-4efa-8a31-518dcb1c0da0" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.python-version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01.first.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/python_fistmonth/__init__.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="3.621616545842545E-19" />
+      <entry key="MS500" value="2.0501257151956545E-4" />
+      <entry key="S2" value="0.11965893227441218" />
+      <entry key="S5" value="0.427738211623868" />
+      <entry key="S10" value="0.6540169811433553" />
+      <entry key="S30" value="0.8680198861524506" />
+      <entry key="S60" value="0.9316758482178502" />
+      <entry key="M2" value="0.9652335718456182" />
+      <entry key="M5" value="0.9859456324260892" />
+      <entry key="M10" value="0.9929479505120544" />
+      <entry key="M15" value="0.9952930905728615" />
+      <entry key="M30" value="0.9976437693750518" />
+      <entry key="H1" value="0.9988211898908893" />
+      <entry key="H2" value="0.9994104211438308" />
+      <entry key="H4" value="0.9997051671086985" />
+      <entry key="D1" value="0.9999508551471373" />
+      <entry key="W1" value="0.999992979158859" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0" />
+      <entry key="S30" value="1.0" />
+      <entry key="S60" value="1.0" />
+      <entry key="M2" value="1.0" />
+      <entry key="M5" value="1.0" />
+      <entry key="M10" value="1.0" />
+      <entry key="M15" value="1.0" />
+      <entry key="M30" value="1.0" />
+      <entry key="H1" value="1.0" />
+      <entry key="H2" value="1.0" />
+      <entry key="H4" value="1.0" />
+      <entry key="D1" value="1.0" />
+      <entry key="W1" value="1.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="3.9128283817866204E-19" />
+      <entry key="MS500" value="3.1328835642807813E-4" />
+      <entry key="S2" value="0.22150996516369803" />
+      <entry key="S5" value="0.8287401483299365" />
+      <entry key="S10" value="1.2872550743557303" />
+      <entry key="S30" value="1.7267453391029175" />
+      <entry key="S60" value="1.8583499001725572" />
+      <entry key="M2" value="1.927872588364813" />
+      <entry key="M5" value="1.9708302945849223" />
+      <entry key="M10" value="1.9853615007560796" />
+      <entry key="M15" value="1.990229039994874" />
+      <entry key="M30" value="1.9951085299486462" />
+      <entry key="H1" value="1.9975527656228889" />
+      <entry key="H2" value="1.998776007743434" />
+      <entry key="H4" value="1.9993879100759298" />
+      <entry key="D1" value="1.9998979719830183" />
+      <entry key="W1" value="1.9999854242498778" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3MMiuA70qFaBDYGQ43Ah5whxj53" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.01.first.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/Admin/Documents/Python_FistMonth",
+    "nodejs_package_manager_path": "npm",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-9e1d95ea72ba-e0583fc556d1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-263.7307.329" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="f420c2da-847c-4efa-8a31-518dcb1c0da0" name="更改" comment="" />
+      <created>1795167056096</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1795167056096</updated>
+      <workItem from="1795167057098" duration="209000" />
+      <workItem from="1795167410681" duration="73000" />
+      <workItem from="1795167495808" duration="237000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Python_FistMonth$01_first.coverage" NAME="01.first 覆盖结果" MODIFIED="1795167548431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
